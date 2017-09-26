@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.ArrayList; 
 
 /**
  * Starting application for running multiple simulations of CrapsGame. This
