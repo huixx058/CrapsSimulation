@@ -1,4 +1,4 @@
-// foo again  1232
+// foo again  123287987879878
 public class CrapsGame
 {
 	private int point;
